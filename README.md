@@ -1,5 +1,5 @@
 # Applied Data Science @ Columbia
-## Fall 2023
+## Spring 2024
 ## Project 1: How do patterns of happpiness across different demographics change?
 
 ![image](figs/title.jpeg)
