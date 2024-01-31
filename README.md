@@ -1,18 +1,21 @@
 # Applied Data Science @ Columbia
 ## Fall 2023
-## Project 1: What made you happy today?
+## Project 1: How do patterns of happpiness across different demographics change?
 
 ![image](figs/title.jpeg)
 
-### [Project Description](doc/Proj1_desc.md)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+### [Data Description](doc/Proj1_desc.md)
+HappyDB is a corpus of 100,000 crowd-sourced happy moments via Amazon’s Mechanical Turk. https://arxiv.org/abs/1801.07746. 
+We used the processed moments data from starter code and the demographic data to reveal the patterns of happiness in terms of parents and children.  
 
-Term: Fall 2023
+Term: Spring 2024
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: How do patterns of happpiness across different demographics change?
++ This project is conducted by [Kechen Lu]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This report analyze patterns of happiness across different demographics by focusing on the questions below:
+1.Do kids and their parents find happiness in similar experiences?
+2.Does older people tend to be more talkative when expressing their feelings?
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
